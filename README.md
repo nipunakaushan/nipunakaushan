@@ -26,7 +26,7 @@
 <a href="https://twitter.com/nipunakaushan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nipunakaushan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nipun kaush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nipun kaush" height="30" width="40" /></a>
 <a href="https://fb.com/nipun kaush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nipun kaush" height="30" width="40" /></a>
-<a href="https://instagram.com/nipuna_kaush_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nipuna_kaush" height="30" width="40" /></a>
+<a href="https://https://www.instagram.com/nipun_kaush_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nipuna_kaush" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
