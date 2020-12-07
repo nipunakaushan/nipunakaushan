@@ -1,12 +1,12 @@
 <h1 align="center">I'm Nipuna Kaushan</h1>
-<h3 align="center">I am passionate software developer from Sri Lanka.<br> Young Entrepreneur <HR>Software Developer <hr>Web Designer <hr>Android/IOS Application Developer</h3>
+<h3 align="center">I am passionate software developer from Sri Lanka.<br> Young Entrepreneur <HR>Software Developer <hr>Web Designer <hr>Android/IOS Application Developer</h3><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunakaushan&label=Profile%20views&color=0e75b6&style=flat" alt="nipunakaushan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunakaushan" alt="nipunakaushan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nipunakaushan" target="blank"><img src="https://img.shields.io/twitter/follow/nipunakaushan?logo=twitter&style=for-the-badge" alt="nipunakaushan" /></a> </p>
-
+<hr>
 - 🌱 I’m currently learning **At Sri lanka institute of information technology**
 
 - 💬 Ask me about **java,react,android**
@@ -14,7 +14,7 @@
 - 📫 How to reach me **nipunakaushan@gmail.com**
 
 - ⚡ Fun fact **I love to play guitar / Photography**
-
+<hr>
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
