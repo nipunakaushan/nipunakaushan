@@ -1,4 +1,4 @@
-<h1 align="center">🔗💻!!_Welcome my Coding HUB_!!<hr><br>I'm Nipuna Kaushan<br>☺<br>/h1>
+<h1 align="center">🔗💻!!_Welcome my Coding HUB_!!<hr><br>I'm Nipuna Kaushan<br>☺<br></h1>
 <h3 align="center">I am passionate software developer from Sri Lanka.<br> Young Entrepreneur <HR>Software Developer <hr>Web Designer <hr>Android/IOS Application Developer</h3><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunakaushan&label=Profile%20views&color=0e75b6&style=flat" alt="nipunakaushan" /> </p>
