@@ -1,4 +1,4 @@
-### Hi there, I'm Chethika dithmal👋
+### Hi there, I'm Nipuna Kaushan👋
 ## I'm a undergraduate Student At SLIIT, Developer, Web Designer!!
 - 🔭 I do content on Design and Development
 - 🌱 I’m currently learning everything 
