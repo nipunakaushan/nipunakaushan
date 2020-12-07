@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunakaushan&label=Profile%20views&color=0e75b6&style=flat" alt="nipunakaushan" /> </p>
 
-<p align="left"> <a href="https://github.com/nipunakaushan/MAD_Evaluation"><img src="https://github-profile-trophy.vercel.app/?username=nipunakaushan" alt="nipunakaushan" /></a> </p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/nipunakaushan/MAD_Evaluation)
 
