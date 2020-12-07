@@ -1,5 +1,5 @@
 <h1 align="center">I'm Nipuna Kaushan</h1>
-<h3 align="center">A passionate software developer from Sri Lanka.<br> Young Entrepreneur Software Developer Web Designer Android/IOS Application Developer</h3>
+<h3 align="center">I am passionate software developer from Sri Lanka.<br> Young Entrepreneur <HR>Software Developer <hr>Web Designer <hr>Android/IOS Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunakaushan&label=Profile%20views&color=0e75b6&style=flat" alt="nipunakaushan" /> </p>
 
