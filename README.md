@@ -4,8 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunakaushan&label=Profile%20views&color=0e75b6&style=flat" alt="nipunakaushan" /> </p>
 
 <p align="left"> <a href="https://github.com/nipunakaushan/MAD_Evaluation"><img src="https://github-profile-trophy.vercel.app/?username=nipunakaushan" alt="nipunakaushan" /></a> </p>
-<a href="https://github.com/nipunakaushan/MAD_Evaluation"></a>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+<p align="left"> <a href="https://github.com/nipunakaushan/MAD_Evaluation"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+" alt="nipunakaushan" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/KaushNipun" target="blank"><img src="https://img.shields.io/twitter/follow/nipunakaushan?logo=twitter&style=for-the-badge" alt="KaushNipun" /></a> </p>
 <hr>
