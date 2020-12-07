@@ -8,9 +8,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/nipunakaushan/MAD_Evaluation)
 
 
-
-<p align="left"> <a href="https://twitter.com/KaushNipun" target="blank"><img src="https://img.shields.io/twitter/follow/nipunakaushan?logo=twitter&style=for-the-badge" alt="KaushNipun" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kaushnipun" target="blank"><img src="https://img.shields.io/twitter/follow/kaushnipun?logo=twitter&style=for-the-badge" alt="kaushnipun" /></a> </p>
 
 <hr>
