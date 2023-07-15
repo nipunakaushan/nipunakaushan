@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/nipun-kaush-01b1441bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nipun kaush" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/nipuna.kaushan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nipun kaush" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nipun_kaush_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nipuna_kaush" height="30" width="40" /></a>
 </p>
