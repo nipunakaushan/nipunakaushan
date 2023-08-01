@@ -1,17 +1,17 @@
 <h1 align="center">👨‍🎓<br>🔗💻!!_Welcome my Coding HUB_!!🔗💻!<hr><br>I'm Kaushan Jayasundara<br>☺<br></h1>
-<h3 align="center">I am passionate software developer from Sri Lanka<br> ✨I am undergraduate in Institute of Information Technology completing a Bachelor's degree in Information Technology specializing in Software Engineering.<br> 👉🏻Interested in 🔰⬇️👇🏻.<br>🕵️‍♂️ Young Entrepreneur🕵️‍♂️ <HR>🛠💻Software Developer🛠💻 <hr>🎨Web Designer🎨 <hr>⚙Android/IOS Application Developer⚙</h3><hr>
+<h3 align="center">I am a passionate software developer<br> ✨I am an undergraduate in the Institute of Information Technology completing a Bachelor's degree in Information Technology specializing in Software Engineering.<br> 👉🏻Interested in 🔰⬇️👇🏻.<br>🕵️‍♂️ Young Entrepreneur🕵️‍♂️ <HR>🛠💻Software Developer🛠💻 <hr>🎨Web Designer🎨 <hr>⚙Android/IOS Application Developer⚙</h3><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunakaushan&label=Profile%20views&color=0e75b6&style=flat" alt="nipunakaushan" /> </p>
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/nipunakaushan/MAD_Evaluation)
+
 
 
 <p align="left"> <a href="https://twitter.com/kaushnipun" target="blank"><img src="https://img.shields.io/twitter/follow/kaushnipun?logo=twitter&style=for-the-badge" alt="kaushnipun" /></a> </p>
 
 <hr>
-- 🌱 I’m currently learning **At Sri lanka institute of information technology**
+- 🌱 I’m curre ntly learning **At Sri lanka institute of information technology**
 
 - 💬 Ask me about **java,react,android**
 
