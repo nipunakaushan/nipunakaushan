@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🎓<br>🔗💻!!_Welcome my to Coding HUB_!!🔗💻!<hr></h1>
+<h1 align="center">🔗💻!!_Welcome to my Coding HUB_!!🔗💻</h1>
 <div align="center"><img src="https://github.com/nipunakaushan/nipunakaushan/blob/main/kaushanjayasundara.jpg"</div>
 <h1 align="center">Hi 👋, I'm Kaushan Jayasundara</h1>
 <h3 align="center">A passionate Software Engineer and I work in corporate IT Sector.</h3>
