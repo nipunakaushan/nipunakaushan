@@ -1,3 +1,5 @@
+
+<div align="center"><img src="https://github.com/nipunakaushan/nipunakaushan/blob/main/kaushanjayasundara.jpg"</div>
 <h1 align="center">👨‍🎓<br>🔗💻!!_Welcome my Coding HUB_!!🔗💻!<hr><br>I'm Kaushan Jayasundara<br>☺<br></h1>
 <h3 align="center">I am a passionate software developer<br> ✨I am an undergraduate in the Institute of Information Technology completing a Bachelor's degree in Information Technology specializing in Software Engineering.<br> 👉🏻Interested in 🔰⬇️👇🏻.<br>🕵️‍♂️ Young Entrepreneur🕵️‍♂️ <HR>🛠💻Software Developer🛠💻 <hr>🎨Web Designer🎨 <hr>⚙Android/IOS Application Developer⚙</h3><hr>
 
